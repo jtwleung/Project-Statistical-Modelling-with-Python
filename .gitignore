@@ -1,0 +1,6 @@
+# List of files in the local git directory which should not be added/committed/pushed
+# This file needs to put configured and placed in the root folder of the local repository of your cloned project
+
+Scratchpad_ideas.xlsx
+Scratchpad.ipynb
+code_for_transformations.txt
